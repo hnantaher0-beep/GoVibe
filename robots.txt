@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://go-vibe-omega.vercel.app/sitemap.xml
